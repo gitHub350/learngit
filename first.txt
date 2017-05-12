@@ -1,5 +1,5 @@
 Git is a distributed version control system.
-Git is bb free software
+Git is free software
 jjyy123
 bbq
 stupid
