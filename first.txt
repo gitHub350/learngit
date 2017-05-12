@@ -4,3 +4,4 @@ jjyy123
 bbq
 stupid
 test branch
+Creating a new branch is quick & simple.
